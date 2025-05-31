@@ -134,6 +134,8 @@ chefgem-ai-cooking-assistant/
 ├── README.md            # You are here
 └── ...
 ```
+---
+
 ## 📈 Future Improvements
 * 🗣️ **Voice-based interaction**
 * 📷 **Camera-based ingredient detection**
