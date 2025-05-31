@@ -126,7 +126,7 @@ chefgem-ai-cooking-assistant/
 ├── pubspec.yaml         # Dependencies and metadata
 ├── README.md            # You are here
 └── ...
-
+```
 ## 📈 Future Improvements
 * 🗣️ **Voice-based interaction**
 * 📷 **Camera-based ingredient detection**
