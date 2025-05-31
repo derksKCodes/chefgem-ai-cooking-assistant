@@ -72,7 +72,7 @@ Before you begin, ensure you have:
 - ✅ Dart SDK *(bundled with Flutter)*
 - ✅ IDE like **VS Code** or **Android Studio**
 - ✅ A **Google Cloud project** with Gemini API enabled  
-  [Set up Gemini API](https://ai.google.dev/docs/gemini_api_overview)
+- ✅ [Set up Gemini API](https://ai.google.dev/docs/gemini_api_overview)
 
 ---
 
