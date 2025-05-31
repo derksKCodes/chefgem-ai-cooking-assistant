@@ -14,6 +14,7 @@ Whether you're learning how to cook or how to integrate AI into apps, this proje
 - [📦 Getting Started](#-getting-started)
   - [🔧 Prerequisites](#-prerequisites)
   - [⚙️ Installation](#️-installation)
+- [📱 Screenshots](#-screenshots)
 - [▶️ Usage](#️-usage)
 - [🗂️ Project Structure](#️-project-structure)
 - [📈 Future Improvements](#-future-improvements)
@@ -98,6 +99,12 @@ Before you begin, ensure you have:
     ```bash
     flutter run
     ```
+
+---
+
+## 📱 Screenshots
+
+Coming soon...
 
 ---
 
