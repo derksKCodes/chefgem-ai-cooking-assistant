@@ -82,27 +82,35 @@ Before you begin, ensure you have:
    git clone https://github.com/derksKCodes/chefgem-ai-cooking-assistant.git
    cd chefgem-ai-cooking-assistant
 
-2. Install Dependencies
-flutter pub get
+2.  **Install Dependencies**
+    ```bash
+    flutter pub get
+    ```
 
-3. Configure Environment Variables
-Create a .env file in the root of your project:
-GEMINI_API_KEY=your_gemini_api_key_here
-(Use flutter_dotenv or similar to load it in your app)
+3.  **Configure Environment Variables**
+    Create a `.env` file in the root of your project:
+    ```env
+    GEMINI_API_KEY=your_gemini_api_key_here
+    ```
+    (Use `flutter_dotenv` or similar to load it in your app)
 
-4. Run the App
-flutter run
+4.  **Run the App**
+    ```bash
+    flutter run
+    ```
 
-▶️ Usage
-Launch the app and enjoy the animated splash screen.
+---
 
-Enter ingredients or select dietary preferences.
+## ▶️ Usage
+* Launch the app and enjoy the animated splash screen.
+* Enter ingredients or select dietary preferences.
+* Chat with the AI assistant for recipes and cooking tips.
+* Use advanced features like filtering and shopping list generation.
 
-Chat with the AI assistant for recipes and cooking tips.
+---
 
-Use advanced features like filtering and shopping list generation.
-
-🗂️ Project Structure
+## 🗂️ Project Structure
+```bash
 chefgem-ai-cooking-assistant/
 ├── lib/
 │   ├── api/             # Gemini API calls
@@ -119,31 +127,33 @@ chefgem-ai-cooking-assistant/
 ├── README.md            # You are here
 └── ...
 
-📈 Future Improvements
-🗣️ Voice-based interaction
-📷 Camera-based ingredient detection
-📝 Save & edit favorite recipes
-🌐 Language translation support
-☁️ Firebase integration for auth & storage
+## 📈 Future Improvements
+* 🗣️ **Voice-based interaction**
+* 📷 **Camera-based ingredient detection**
+* 📝 **Save & edit favorite recipes**
+* 🌐 **Language translation support**
+* ☁️ **Firebase integration** for auth & storage
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
 We welcome contributions! To get started:
-Fork the repository
-Create your branch (git checkout -b feature/my-feature)
-Commit your changes (git commit -m 'Add feature')
-Push to the branch (git push origin feature/my-feature)
-Open a Pull Request
 
-🪪 License
+1.  Fork the repository
+2.  Create your branch (`git checkout -b feature/my-feature`)
+3.  Commit your changes (`git commit -m 'Add feature'`)
+4.  Push to the branch (`git push origin feature/my-feature`)
+5.  Open a Pull Request
+
+---
+
+## 🪪 License
 This project is licensed under the MIT License.
 
-📬 Contact
-Developer: @derksKCodes
+---
 
-Project Link: https://github.com/derksKCodes/chefgem-ai-cooking-assistant.git
+## 📬 Contact
+* **Developer:** [@derksKCodes](https://github.com/derksKCodes)
+* **Project Link:** [https://github.com/derksKCodes/chefgem-ai-cooking-assistant.git](https://github.com/derksKCodes/chefgem-ai-cooking-assistant.git)
 
 Made with ❤️ using Flutter & Gemini
-Let me know if you’d like:
-- A badge pack (build passing, Flutter version, license, etc.)
-- An animated demo (GIF or video preview)
-- A logo/banner for ChefGem
